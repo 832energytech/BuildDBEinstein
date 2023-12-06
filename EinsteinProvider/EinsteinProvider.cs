@@ -1722,6 +1722,7 @@ namespace Einstein.Provider
                 _filters = EBIBuildAPIHelper.BuildFilter(_filters, "embedding", FilterOperation.VECTORMATCH, ebmedding.GetEmbeddingString(), BooleanOperation.AND);
                 
 
+
                 (authStatus, resultList, paginationDataList) = await EBBuildAPIService.GetLedgerRecordsAsync<summaries>(
                 asyncWrapper: _ebBuildDBApiServiceFactory.GetAsyncWrapper(),
                 parentToLazyLoadChildren: null,

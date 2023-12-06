@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YQszhGP0LT/gCUeh6UV+60fsHlXgKA4p8ibQZnaBOK/nde5T0I6EuMi77fEo4xauit0yjLU31b9Dn5Ps0MTM3w==",
+  "dgSpecHash": "MBFUg8eW1DdVpBIhJ8F5W00ZMfv3bXsxHOMFYnsrBeP8BB32I7BrN7eEoI5BLIT8qbsFZzet5c5OiZjcCn6f9g==",
   "success": true,
   "projectFilePath": "C:\\832 Energy Technology Consulting Logo\\QueryChainSource\\EB SourceCode\\EBBuildAPIClient\\BuildDBEinstein\\BuildDBEinstein\\BuildDBEinstein.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Owner\\.nuget\\packages\\ebbuildclient\\1.0.106\\ebbuildclient.1.0.106.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\ebbuildclient\\1.0.107\\ebbuildclient.1.0.107.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\messagepack\\2.1.90\\messagepack.2.1.90.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\messagepack.annotations\\2.1.90\\messagepack.annotations.2.1.90.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

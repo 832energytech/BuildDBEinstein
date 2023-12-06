@@ -1729,7 +1729,7 @@ namespace Einstein.Provider
                 filterFunctions: null,
                 relationship: (includeRelationship == false ? null : summaries_relationship.GetRelationshipDefinition()),
                 servicContext: dBContext,
-                refreshCacheResults: false).ConfigureAwait(false);
+                refreshCacheResults: true).ConfigureAwait(false);
             }
             catch (Exception ex)
             {
